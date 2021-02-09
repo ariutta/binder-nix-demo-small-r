@@ -1,0 +1,4 @@
+share-jupyter/
+.direnv/
+.ipynb_checkpoints/
+.virtual_documents/
